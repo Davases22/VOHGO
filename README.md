@@ -56,6 +56,7 @@ Mi nombre es David Espejo y desarrollé el app:
 ¡Estoy siempre disponible para colaborar y discutir ideas interesantes! Puedes encontrarme en las siguientes plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-alejandro-espejo-garcia-298808216/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-valero-sabogal-b14978274/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/DavidEs91503087)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Davases22)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/davases22/)
@@ -65,6 +66,7 @@ Mi nombre es David Espejo y desarrollé el app:
 
 Si quieres hablar sobre tecnología, startups o simplemente saludar, ¡no dudes en enviarme un mensaje!  
 📧 Email: [davas.espejo@gmail.com](mailto:davas.espejo@gmail.com)
+📧 Email: [jaivalsab@gmail.com](mailto:jaivalsab@gmail.com)
 
 
 ## Instalación
